@@ -1,5 +1,6 @@
 # aliceCSV -- A concise and easy-to-use csv module   
 **aliceCSV -- 一个简洁易用的csv模块**
+这是英文版介绍，中文版介绍请看
 
 这个模块可以把csv文档作为二维列表进行操作，例如下面的例子
 
@@ -18,9 +19,8 @@ mode: 选填，默认为standard，自动对csv文件中不符合规范的部分
 
 
 
-### 
-把二维表存储为csv文件
+### 把二维表存储为csv文件：
 ```
 sheetToCsv(sheet,output_path)
 ```
-
+把
