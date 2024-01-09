@@ -1,4 +1,5 @@
-# aliceCSV  A concise and easy-to-use module   一个简洁易用的csv库
+# aliceCSV -- A concise and easy-to-use module   
+# aliceCSV一个简洁易用的csv库
 
 
 这个库可以把csv文档作为二维列表进行操作，例如下面的例子
