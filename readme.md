@@ -1,8 +1,10 @@
 # aliceCSV -- A concise and easy-to-use csv module   
 **aliceCSV -- 一个简洁易用的csv模块**
-这是英文版介绍，中文版介绍请看
+这是英文版介绍，中文版介绍请看[中文文档](https://github.com/Alicedrop/aliceCSV/blob/main/readme_zh-CN.md)
 
-这个模块可以把csv文档作为二维列表进行操作，例如下面的例子
+这个模块可以把csv文档作为二维列表进行操作，也可以用作开发的参考
+
+例如下面的例子
 
 This moudle can manipulate CSV documents as two-dimensional lists, as shown in the following example
 
