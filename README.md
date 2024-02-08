@@ -109,7 +109,7 @@ Michael, male, 180cm, "10 Rue de la Paix, Paris, France"
 Sophia, female, 165cm, "25 Alexanderplatz, Berlin, Germany"
 ```
 
-If you fix it or learn more about it , you can go to  [**4.Convert CSV files into other formats**](https://github.com/Alicedrop/aliceCSV#4.Convert CSV files into other formats) .
+If you fix it or learn more about it , you can go to  [**4.Convert CSV files into other formats**](https://github.com/Alicedrop/aliceCSV/blob/main/README.md#4convert-csv-files-into-other-formats) .
 
 ### 2.Converte two-dimensional table into CSV file：
 
@@ -145,7 +145,8 @@ tableToCsv(table)
 
 Then it will output the "output.csv"
 
-![image-20240208212308629](D:\2024工程\aliceCSV\assets\image-20240208212308629.png) 
+![image](https://github.com/Alicedrop/aliceCSV/assets/128953967/fd302b28-7619-4e49-a0e8-6b26989346fa)
+
 
 
 
@@ -218,7 +219,8 @@ fixCSV("space.csv", origin_delimiter=", ", target_delimiter=",")
 
 This example demonstrates the conversion of the “space.csv” file into the resulting “output.csv” as follows.
 
-![image-20240208223737057](D:\2024工程\aliceCSV\assets\image-20240208223737057.png) 
+![image](https://github.com/Alicedrop/aliceCSV/assets/128953967/73dad0cb-cc60-4636-808f-0142e2765384)
+
 
 
 
