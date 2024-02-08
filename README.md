@@ -47,15 +47,15 @@ It will output  the following result.
 
 > [['avc', 'She said,"I like orange juice."']]
 
-And don't worry this will misunderstand you meaning —— 
+And don't worry about this kind of compatibility affecting normal reading. For example, even if you want to express the wrong sheet Excel reads out, it shouldn't be done in that erroneous manner. Such writing is merely guesswork for the interpreter to decipher. The interpretation may vary due to text and interpretation program differences, making it uncertain what it's interpreted as. aliceCSV simply outputs results based on commonly made errors, opting for those that likely reflect the author's true intent.
 
 ## Install
 
 You can use pip to install it.
-
+```bash
 pip install aliceCSV
-
-or clone this 
+```
+or install with this repo.
 
 ## How to use
 
