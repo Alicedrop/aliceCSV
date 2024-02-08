@@ -129,7 +129,7 @@ TableToCsv(sheet, [optional]output_path, [optional]sheet_encoding, [optional]del
 
 
 
-To save a two-dimensional list as a CSV file using the `sheetToCsv()` function, you can use the following example:
+To save a two-dimensional list as a CSV file using the `tableToCsv()` function, you can use the following example:
 
 ```python
 from aliceCSV import tableToCsv
