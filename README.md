@@ -197,7 +197,7 @@ Sophia, female, 165cm, "25 Alexanderplatz, Berlin, Germany"
 aliceCSV can convert them easily.
 
 ```
-fixCSV(path, [optional]output_path, [optional]origin_delimiter,                  [optional]target_delimiter, [optional]origin_encoding)
+fixCSV(path, [optional]output_path, [optional]origin_delimiter,[optional]target_delimiter, [optional]origin_encoding)
 ```
 
 `path: The path of the origin CSV file.`
