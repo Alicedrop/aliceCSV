@@ -2,7 +2,7 @@
 
 **aliceCSV -- 一个简洁易用的csv模块**
 
-==这是英文介绍，中文介绍请看[中文文档](https://github.com/Alicedrop/aliceCSV/blob/main/readme_zh-CN.md)==
+==这是英文介绍，中文介绍请看[中文文档](https://github.com/Alicedrop/aliceCSV/blob/main/READEME_zh-CN.md)==
 
 This module can operate CSV file **as two-dimensional table** and be able to **convert them** into other forms easily.
 
