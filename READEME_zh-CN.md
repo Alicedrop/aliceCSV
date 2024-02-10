@@ -205,7 +205,7 @@ Sophia, female, 165cm, "25 Alexanderplatz, Berlin, Germany"
 aliceCSV 可以轻易地转换它们。
 
 ```
-fixCSV(path, [optional]output_path, [optional]origin_delimiter,                  [optional]target_delimiter, [optional]origin_encoding)
+fixCSV(path, [optional]output_path, [optional]origin_delimiter,[optional]target_delimiter, [optional]origin_encoding)
 ```
 
 `path: 输入的初始CSV文件路径.`
